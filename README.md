@@ -2,9 +2,10 @@
 
 A responsive image gallery built with React and Swiper.js.
 
-## 🖥️ Live Demo
 
-[View Demo](https://username.github.io/image-gallery-swiper)
+
+## 🖥️ Live Demo
+[View Demo](https://salarkarimibag-cmd.github.io/image-gallery-swiper)
 
 ## 📸 Screenshot
 
@@ -64,5 +65,4 @@ npm install swiper
 ```
 
 ## 👤 Author
-
-- GitHub: [@username](https://github.com/username)
+- GitHub: [@salarkarimibag-cmd](https://github.com/salarkarimibag-cmd)
