@@ -1,30 +1,29 @@
-# 📸 Image Gallery Swiper
+# 👤 Profile Card
 
-A responsive image gallery built with React and Swiper.js.
-
-
+A responsive profile card built with React, Framer Motion and Tailwind CSS.
 
 ## 🖥️ Live Demo
+
 [View Demo](https://salarkarimibag-cmd.github.io/image-gallery-swiper)
 
 ## 📸 Screenshot
 
-![Gallery Preview](./src/assets/images/images.jpg)
+![Profile Card Preview](./src/assets/images/Profile.jpeg)
 
 ## 🚀 Tech Stack
 
 - **React** — UI library
-- **Swiper.js** — image slider
+- **Framer Motion** — animations
 - **Tailwind CSS** — styling
+- **React Icons** — social icons
 
 ## ✨ Features
 
-- Responsive image slider
-- Thumbnail navigation
-- Autoplay with 4s delay
-- Loop mode
-- Pagination dots
-- Prev / Next buttons
+- Smooth entrance animation
+- Profile image with ring effect
+- Social links (GitHub, Instagram, Twitter)
+- Glassmorphism design
+- Fully responsive
 
 ## 📦 Installation
 
@@ -49,11 +48,12 @@ npm run build
 ```
 src/
   assets/
-    images/        # عکس‌ها
+    images/
+      Profile.jpeg
   components/
-    ImageGallerySwiper.jsx
+    ProfileCard.jsx
   data/
-    ImagesData.js
+    UserData.js
   App.js
   index.css
 ```
@@ -61,8 +61,9 @@ src/
 ## 🔧 Dependencies
 
 ```bash
-npm install swiper
+npm install framer-motion react-icons
 ```
 
 ## 👤 Author
+
 - GitHub: [@salarkarimibag-cmd](https://github.com/salarkarimibag-cmd)

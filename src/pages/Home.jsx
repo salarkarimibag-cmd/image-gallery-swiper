@@ -1,7 +1,8 @@
-import ImageGallerySwiper from "../components/ImageGallerySwiper";
+import ProfileCard from "../components/ProfileCard";
+
 
 function Home() {
-  return <ImageGallerySwiper/>;
+  return <ProfileCard/>;
 }
 
 export default Home;
