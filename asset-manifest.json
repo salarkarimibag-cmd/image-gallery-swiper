@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Image-Gallery-Swiper/static/css/main.f0fab4b6.css",
+    "main.js": "/Image-Gallery-Swiper/static/js/main.b48b5f38.js",
+    "static/js/453.b9256582.chunk.js": "/Image-Gallery-Swiper/static/js/453.b9256582.chunk.js",
+    "static/media/images2.avif": "/Image-Gallery-Swiper/static/media/images2.47c79a77e9b753ba7c9c.avif",
+    "static/media/images1.jpg": "/Image-Gallery-Swiper/static/media/images1.8828fe35a376b6bfdb5d.jpg",
+    "static/media/images6.jpg": "/Image-Gallery-Swiper/static/media/images6.93a89a11072d6fae5e55.jpg",
+    "static/media/images4.jpg": "/Image-Gallery-Swiper/static/media/images4.2b817ede7d9f36de95d4.jpg",
+    "static/media/images5.jpg": "/Image-Gallery-Swiper/static/media/images5.c0dd6ec45494696f403b.jpg",
+    "static/media/back-view-woman-standing-water-making-heart-shape-summer-sunset-.avif": "/Image-Gallery-Swiper/static/media/back-view-woman-standing-water-making-heart-shape-summer-sunset-.ff783e277218eb3ed10e.avif",
+    "static/media/images.avif": "/Image-Gallery-Swiper/static/media/images.f281023d78569cf9801a.avif",
+    "index.html": "/Image-Gallery-Swiper/index.html",
+    "main.f0fab4b6.css.map": "/Image-Gallery-Swiper/static/css/main.f0fab4b6.css.map",
+    "main.b48b5f38.js.map": "/Image-Gallery-Swiper/static/js/main.b48b5f38.js.map",
+    "453.b9256582.chunk.js.map": "/Image-Gallery-Swiper/static/js/453.b9256582.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0fab4b6.css",
+    "static/js/main.b48b5f38.js"
+  ]
+}
