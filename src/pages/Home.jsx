@@ -1,8 +1,7 @@
-import ProfileCard from "../components/ProfileCard";
-
+import FoodieHero from "../components/FoodieHero";
 
 function Home() {
-  return <ProfileCard/>;
+  return <FoodieHero />;
 }
 
 export default Home;

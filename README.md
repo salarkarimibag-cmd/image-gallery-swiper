@@ -1,69 +1,141 @@
-# 👤 Profile Card
+# 🍽️ Foodie Hero Landing Page
 
-A responsive profile card built with React, Framer Motion and Tailwind CSS.
+A modern and responsive food landing page built with **React** and **Tailwind CSS**. The project features a clean hero section, responsive navigation, mobile menu, and smooth interactive UI.
 
 ## 🖥️ Live Demo
 
-[View Demo](https://salarkarimibag-cmd.github.io/image-gallery-swiper)
+[View Demo](https://YOUR_DEMO_LINK)
+
+---
 
 ## 📸 Screenshot
 
-![Profile Card Preview](./src/assets/images/Profile.jpeg)
+![Foodie Hero Preview](./src/assets/images/photo-1547592180-85f173990554.jpg)
+
+---
 
 ## 🚀 Tech Stack
 
-- **React** — UI library
-- **Framer Motion** — animations
-- **Tailwind CSS** — styling
-- **React Icons** — social icons
+* ⚛️ React
+* 🎨 Tailwind CSS
+* 🎯 React Icons
+* 🪝 React Hooks (`useState`, `useEffect`, `useRef`)
+
+---
 
 ## ✨ Features
 
-- Smooth entrance animation
-- Profile image with ring effect
-- Social links (GitHub, Instagram, Twitter)
-- Glassmorphism design
-- Fully responsive
+* 🍔 Modern food landing page
+* 📱 Fully responsive design
+* 📌 Sticky navigation bar
+* 🌑 Dynamic navbar shadow on scroll
+* 🍔 Mobile hamburger menu
+* 🎯 Active navigation link highlight
+* 🖼️ Hero section with custom image mask
+* 🎨 Smooth hover and transition effects
+* ⚡ Clean and reusable component structure
+
+---
 
 ## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/salarkarimibag-cmd/foodie-hero.git
+```
+
+Move into the project folder:
+
+```bash
+cd foodie-hero
+```
+
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-## ▶️ Run
+---
+
+## ▶️ Run Development Server
 
 ```bash
 npm start
 ```
 
-## 🏗️ Build
+The application will be available at:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## 🏗️ Build for Production
 
 ```bash
 npm run build
 ```
 
+---
+
 ## 📁 Project Structure
 
-```
+```text
 src/
-  assets/
-    images/
-      Profile.jpeg
-  components/
-    ProfileCard.jsx
-  data/
-    UserData.js
-  App.js
-  index.css
+├── assets/
+│   └── images/
+│       └── photo-1547592180-85f173990554.jpg
+├── components/
+│   └── FoodieHero.jsx
+├── App.js
+├── index.js
+└── index.css
 ```
 
-## 🔧 Dependencies
+---
+
+## 📚 Main Concepts Used
+
+* React Components
+* React Hooks
+
+  * useState
+  * useEffect
+  * useRef
+* Conditional Rendering
+* Responsive Design
+* Tailwind CSS Utility Classes
+* Event Handling
+* Array Mapping (`map`)
+* Dynamic Class Names
+
+---
+
+## 📦 Dependencies
 
 ```bash
-npm install framer-motion react-icons
+npm install react-icons
 ```
 
-## 👤 Author
+If Tailwind CSS is not installed:
 
-- GitHub: [@salarkarimibag-cmd](https://github.com/salarkarimibag-cmd)
+```bash
+npm install -D tailwindcss postcss autoprefixer
+```
+
+---
+
+## 👨‍💻 Author
+
+**Salar Karimi**
+
+GitHub: https://github.com/salarkarimibag-cmd
+
+---
+
+## ⭐ Support
+
+If you enjoyed this project, consider giving it a ⭐ on GitHub.
