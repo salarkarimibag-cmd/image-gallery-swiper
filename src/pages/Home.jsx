@@ -1,7 +1,7 @@
-import FoodieHero from "../components/FoodieHero";
+import ImageGallerySwiper from "../components/ImageGallerySwiper";
 
 function Home() {
-  return <FoodieHero />;
+  return <ImageGallerySwiper/>;
 }
 
 export default Home;

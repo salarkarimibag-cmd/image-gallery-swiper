@@ -1,54 +1,39 @@
-# 🍽️ Foodie Hero Landing Page
+# 🖼️ Image Gallery Swiper
 
-A modern and responsive food landing page built with **React** and **Tailwind CSS**. The project features a clean hero section, responsive navigation, mobile menu, and smooth interactive UI.
+A modern and responsive image gallery built with **React**, **Swiper.js**, and **Tailwind CSS**. The gallery includes autoplay, thumbnail navigation, pagination, and smooth slide transitions for an engaging user experience.
 
 ## 🖥️ Live Demo
 
-[View Demo](https://YOUR_DEMO_LINK)
-
----
+👉 https://salarkarimibag-cmd.github.io/image-gallery-swiper
 
 ## 📸 Screenshot
 
-![Foodie Hero Preview](./src/assets/images/photo-1547592180-85f173990554.jpg)
-
----
+![Image Gallery Swiper](./src/assets/images/images6.jpg)
 
 ## 🚀 Tech Stack
 
 * ⚛️ React
+* 🎞️ Swiper.js
 * 🎨 Tailwind CSS
-* 🎯 React Icons
-* 🪝 React Hooks (`useState`, `useEffect`, `useRef`)
-
----
+* 🪝 React Hooks (`useState`, `useRef`, `useEffect`)
 
 ## ✨ Features
 
-* 🍔 Modern food landing page
-* 📱 Fully responsive design
-* 📌 Sticky navigation bar
-* 🌑 Dynamic navbar shadow on scroll
-* 🍔 Mobile hamburger menu
-* 🎯 Active navigation link highlight
-* 🖼️ Hero section with custom image mask
-* 🎨 Smooth hover and transition effects
-* ⚡ Clean and reusable component structure
-
----
+* 🖼️ Responsive image gallery
+* ⏯️ Autoplay slider
+* ◀️▶️ Previous & Next navigation
+* 🔘 Clickable pagination
+* 🖼️ Thumbnail navigation
+* 🔄 Infinite loop
+* ⚡ Smooth slide animations
+* 📱 Mobile-friendly layout
 
 ## 📦 Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/salarkarimibag-cmd/foodie-hero.git
-```
-
-Move into the project folder:
-
-```bash
-cd foodie-hero
+git clone https://github.com/salarkarimibag-cmd/image-gallery-swiper.git
 ```
 
 Install dependencies:
@@ -57,21 +42,17 @@ Install dependencies:
 npm install
 ```
 
----
-
 ## ▶️ Run Development Server
 
 ```bash
 npm start
 ```
 
-The application will be available at:
+Open your browser and visit:
 
 ```text
 http://localhost:3000
 ```
-
----
 
 ## 🏗️ Build for Production
 
@@ -79,54 +60,28 @@ http://localhost:3000
 npm run build
 ```
 
----
-
 ## 📁 Project Structure
 
 ```text
 src/
 ├── assets/
 │   └── images/
-│       └── photo-1547592180-85f173990554.jpg
 ├── components/
-│   └── FoodieHero.jsx
+│   └── ImageGallerySwiper.jsx
+├── data/
+│   └── ImagesData.js
+├── pages/
+│   └── Home.jsx
 ├── App.js
 ├── index.js
 └── index.css
 ```
 
----
-
-## 📚 Main Concepts Used
-
-* React Components
-* React Hooks
-
-  * useState
-  * useEffect
-  * useRef
-* Conditional Rendering
-* Responsive Design
-* Tailwind CSS Utility Classes
-* Event Handling
-* Array Mapping (`map`)
-* Dynamic Class Names
-
----
-
 ## 📦 Dependencies
 
 ```bash
-npm install react-icons
+npm install swiper
 ```
-
-If Tailwind CSS is not installed:
-
-```bash
-npm install -D tailwindcss postcss autoprefixer
-```
-
----
 
 ## 👨‍💻 Author
 
@@ -134,8 +89,8 @@ npm install -D tailwindcss postcss autoprefixer
 
 GitHub: https://github.com/salarkarimibag-cmd
 
----
+## ⭐ Show Your Support
 
-## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
 
-If you enjoyed this project, consider giving it a ⭐ on GitHub.
+Happy Coding! 🚀
